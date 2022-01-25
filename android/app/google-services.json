@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385449420906",
+    "project_id": "kigali-food-explorer-be213",
+    "storage_bucket": "kigali-food-explorer-be213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385449420906:android:3d60c37721630841e48213",
+        "android_client_info": {
+          "package_name": "com.example.login_page_day_23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385449420906-9ugchkt89hvjtdqf0uophri6us4irflr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3gdDdF_PclczK7G8HJDqFaVgEuOABnHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385449420906-9ugchkt89hvjtdqf0uophri6us4irflr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
